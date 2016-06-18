@@ -67,7 +67,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   display: block;
 }
 
-/* line 8, ../sass/screen.scss */
+/* line 7, ../sass/screen.scss */
 .reveal .footer {
   position: absolute;
   bottom: 1em;
@@ -75,12 +75,16 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   font-size: 50%;
 }
 
-/* line 15, ../sass/screen.scss */
+/* line 14, ../sass/screen.scss */
 #home h1 {
   margin-top: 50%;
 }
 
-/* line 19, ../sass/screen.scss */
+/* line 18, ../sass/screen.scss */
+#darwin p,
+#science p,
+#religion p,
+#biodiversity p,
 #evolution p {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.6);
 }

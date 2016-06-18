@@ -2,7 +2,6 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-
 @import "compass/reset";
 
 .reveal .footer {
@@ -16,6 +15,10 @@
   margin-top: 50%;
 }
 
+#darwin p,
+#science p,
+#religion p,
+#biodiversity p,
 #evolution p {
-  background-color: rgba(0,0,0,.5);
+  background-color: rgba(0, 0, 0, .6);
 }
