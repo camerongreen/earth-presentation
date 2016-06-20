@@ -81,8 +81,15 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* line 18, ../sass/screen.scss */
+#secular h1 {
+  color: black;
+}
+
+/* line 22, ../sass/screen.scss */
+#rethink p,
 #darwin p,
 #science p,
+#secular p,
 #religion p,
 #biodiversity p,
 #evolution p {
