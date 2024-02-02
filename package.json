@@ -23,6 +23,9 @@
     "tests"
   ],
   "dependencies": {
-    "reveal.js": "^4.3"
+    "reveal.js": "^5.0"
+  },
+  "scripts" : {
+    "start": "npx -y http-server"
   }
 }
