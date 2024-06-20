@@ -1,7 +1,1 @@
-{
-"version": 3,
-"mappings": "AAAA;;2FAE2F",
-"sources": ["../scss/print.scss"],
-"names": [],
-"file": "print.css"
-}
+{"version":3,"sources":["../scss/print.scss"],"names":[],"mappings":"AAAA;;0FAAA","file":"print.css","sourcesContent":["/* Welcome to Compass. Use this file to define print styles.\n * Import this file using the following HTML or equivalent:\n * <link href=\"/stylesheets/print.css\" media=\"print\" rel=\"stylesheet\" type=\"text/css\" /> */\n"]}

@@ -1,7 +1,1 @@
-{
-"version": 3,
-"mappings": "AAAA,eAAgB;EACd,QAAQ,EAAE,QAAQ;EAClB,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,GAAG;EACX,SAAS,EAAE,GAAG;;AAGhB,OAAQ;EACN,SAAS,EAAE,IAAI;;AAGjB,UAAW;EACT,SAAS,EAAE,MAAM;;AAGnB,QAAS;EACP,UAAU,EAAE,GAAG;;AAGjB,WAAY;EACV,KAAK,EAAE,KAAK;;AAGd,mBAAoB;EAClB,gBAAgB,EAAE,kBAAkB;;AAGtC,iBAAkB;EAChB,KAAK,EAAE,IAAI;EACX,gBAAgB,EAAE,wBAAwB",
-"sources": ["../scss/screen.scss"],
-"names": [],
-"file": "screen.css"
-}
+{"version":3,"sources":["../scss/screen.scss","screen.css"],"names":[],"mappings":"AAAA;EACE,kBAAA;EACA,UAAA;EACA,WAAA;EACA,cAAA;ACCF;;ADEA;EACE,eAAA;ACCF;;ADEA;EACE,iBAAA;ACCF;;ADEA;EACE,eAAA;ACCF;;ADEA;EACE,YAAA;ACCF;;ADEA;EACE,oCAAA;ACCF;;ADEA;EACE,WAAA;EACA,0CAAA;ACCF","file":"screen.css","sourcesContent":[".reveal .footer {\n  position: absolute;\n  right: 1em;\n  bottom: 1em;\n  font-size: 60%;\n}\n\n.reveal {\n  font-size: 30px;\n}\n\n.reveal h1 {\n  font-size: 2.77em;\n}\n\n#home h1 {\n  margin-top: 50%;\n}\n\n#secular h1 {\n  color: black;\n}\n\nsection.highlight p {\n  background-color: rgba(0, 0, 0, 0.6);\n}\n\nsection.reverse p {\n  color: #000;\n  background-color: rgba(255, 255, 255, 0.6);\n}\n",".reveal .footer {\n  position: absolute;\n  right: 1em;\n  bottom: 1em;\n  font-size: 60%;\n}\n\n.reveal {\n  font-size: 30px;\n}\n\n.reveal h1 {\n  font-size: 2.77em;\n}\n\n#home h1 {\n  margin-top: 50%;\n}\n\n#secular h1 {\n  color: black;\n}\n\nsection.highlight p {\n  background-color: rgba(0, 0, 0, 0.6);\n}\n\nsection.reverse p {\n  color: #000;\n  background-color: rgba(255, 255, 255, 0.6);\n}"]}
